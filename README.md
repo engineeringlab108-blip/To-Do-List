@@ -1,6 +1,6 @@
 # To-Do List Application
 
-[Live Demo](https://your-site-name.netlify.app)
+[Live Demo](https://manages-tasks.netlify.app/)
 
 Project is deployed using Netlify.
 
